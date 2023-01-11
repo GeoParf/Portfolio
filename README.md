@@ -1,2 +1,2 @@
 # Portfolio
-My work, educational and commercial projects
+My educational projects
